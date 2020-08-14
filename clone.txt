@@ -1,0 +1,4 @@
+clone to local desktop
+touch this txt
+vim this txt
+push to github 
